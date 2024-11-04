@@ -1,0 +1,9 @@
+{
+    "content": "Prepare a presentation to demonstrate your deep learning project.",
+    "sections": [
+      {"name": "Duration", "description": "10 minutes presentation + 5 minutes Q&A"},
+      {"name": "Content", "description": "Overview of project, methodology, results, and conclusions"},
+      {"name": "Slides", "description": "Prepare clear, concise PowerPoint slides"},
+      {"name": "Demonstration", "description": "Include a live demonstration of your implemented system"}
+    ]
+  }

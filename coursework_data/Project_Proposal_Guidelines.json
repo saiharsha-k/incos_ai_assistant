@@ -1,0 +1,9 @@
+{
+    "content": "The project proposal should outline your intended deep learning project.",
+    "sections": [
+      {"name": "Word Limit", "description": "Maximum 500 words"},
+      {"name": "Project Title", "description": "A clear, concise title reflecting the project's focus"},
+      {"name": "Objectives", "description": "Clearly stated goals of the project"},
+      {"name": "Methodology", "description": "Brief overview of the proposed deep learning approach"}
+    ]
+  }

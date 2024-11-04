@@ -1,0 +1,10 @@
+{
+    "content": "Consider the ethical implications of your deep learning project:",
+    "considerations": [
+      "Data privacy and protection",
+      "Bias in AI systems and datasets",
+      "Potential societal impacts of your model",
+      "Transparency and explainability of your AI solution",
+      "Ethical use of computational resources"
+    ]
+  }

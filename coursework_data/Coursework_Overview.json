@@ -1,0 +1,9 @@
+{
+    "content": "This Deep Learning coursework involves developing a project that demonstrates your understanding and application of advanced deep learning techniques. The project consists of a proposal, technical report, source code, and presentation.",
+    "components": [
+      {"name": "Project Proposal", "weight": 10},
+      {"name": "Technical Report", "weight": 50},
+      {"name": "Source Code", "weight": 25},
+      {"name": "Presentation", "weight": 15}
+    ]
+  }

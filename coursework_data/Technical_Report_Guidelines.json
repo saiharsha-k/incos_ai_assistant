@@ -1,0 +1,13 @@
+{
+    "content": "The technical report should provide a comprehensive overview of your deep learning project.",
+    "sections": [
+      {"name": "Word Limit", "description": "Maximum 3000 words (excluding references)"},
+      {"name": "Abstract", "description": "Brief overview of the project (200 words)"},
+      {"name": "Introduction", "description": "Background, motivation, and problem statement"},
+      {"name": "Literature Review", "description": "Analysis of relevant research and techniques"},
+      {"name": "Methodology", "description": "Detailed description of the deep learning approach"},
+      {"name": "Results and Discussion", "description": "Presentation and analysis of findings"},
+      {"name": "Conclusion", "description": "Summary of achievements and future work"},
+      {"name": "References", "description": "Use IEEE referencing style"}
+    ]
+  }

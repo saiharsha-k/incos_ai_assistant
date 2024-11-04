@@ -1,0 +1,9 @@
+{
+    "content": "Submit well-documented Python code for your deep learning project.",
+    "sections": [
+      {"name": "Language", "description": "Python"},
+      {"name": "Documentation", "description": "Include comments explaining the code"},
+      {"name": "README", "description": "Provide a README file with instructions to run the code"},
+      {"name": "Dependencies", "description": "List all required libraries and their versions"}
+    ]
+  }
