@@ -1,13 +1,51 @@
 {
-    "content": "The technical report should provide a comprehensive overview of your deep learning project.",
-    "sections": [
-      {"name": "Word Limit", "description": "Maximum 3000 words (excluding references)"},
-      {"name": "Abstract", "description": "Brief overview of the project (200 words)"},
-      {"name": "Introduction", "description": "Background, motivation, and problem statement"},
-      {"name": "Literature Review", "description": "Analysis of relevant research and techniques"},
-      {"name": "Methodology", "description": "Detailed description of the deep learning approach"},
-      {"name": "Results and Discussion", "description": "Presentation and analysis of findings"},
-      {"name": "Conclusion", "description": "Summary of achievements and future work"},
-      {"name": "References", "description": "Use IEEE referencing style"}
-    ]
+  "content": "The report should include the following sections and follow the provided instructions to ensure proper structure and clarity.",
+  "sections": [
+    {
+      "name": "Word Limit",
+      "description": "Maximum of 3000 words (excluding references). Be concise and to the point while covering all necessary details."
+    },
+    {
+      "name": "Abstract",
+      "description": "A brief overview of the project (200 words). Summarize the problem, methodology, results, and conclusions."
+    },
+    {
+      "name": "Introduction",
+      "description": "Provide an overview of the problem and solution. This section should briefly explain the motivation behind the project and the approach you are taking."
+    },
+    {
+      "name": "Background",
+      "description": "Provide general information about the topic. This section should include any necessary background information to understand the context of the problem being solved."
+    },
+    {
+      "name": "Literature Review",
+      "description": "Review the existing literature relevant to the problem and the solution. Discuss prior research, key findings, and how they relate to your work."
+    },
+    {
+      "name": "Methodology",
+      "description": "Describe the methodology used to solve the problem. Include details about the deep learning model used, the dataset, pre-processing and augmentation techniques, and the training and evaluation processes."
+    },
+    {
+      "name": "Results and Discussion",
+      "description": "Present the results of the evaluation of your solution. Include performance metrics used and discuss the results, highlighting significant findings."
+    },
+    {
+      "name": "Conclusion",
+      "description": "Summarize the main findings of your work and provide recommendations for future work. Discuss any potential improvements or directions for further research."
+    },
+    {
+      "name": "References",
+      "description": "List all the sources cited in the report. Ensure all references follow a recognized citation style, such as the IEEE citation style."
+    }
+  ],
+  "instructions_for_writing": {
+    "clarity_and_conciseness": "The report should be written in a clear and concise manner, with proper grammar and spelling. Avoid unnecessary jargon and keep explanations straightforward.",
+    "structure": "The report should have a clear and well-organized structure, with concise headings and subheadings. Each section should flow logically into the next.",
+    "citations": "Ensure proper citations for all sources used, following a recognized citation style, such as the IEEE citation style. Include all relevant sources in the References section.",
+    "technical_style": "Write the report in a technical and scientific style, with appropriate use of technical terminology. Avoid informal language and focus on precise, clear descriptions.",
+    "figures_and_tables": "Include relevant figures and tables to illustrate the results of your work. Ensure that all figures and tables are clearly labeled and referenced in the text."
+  },
+  "report_template": {
+    "template": "Students should use the IEEE Conference Paper Template. You can download the template here: [IEEE Conference Paper Template Link]."
   }
+}

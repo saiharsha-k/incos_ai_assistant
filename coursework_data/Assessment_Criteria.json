@@ -1,0 +1,137 @@
+{
+    "Assessment_Criteria": [
+      {
+        "criteria": "Problem and Solution Selection",
+        "weight": "10%",
+        "levels": [
+          { "level": "No Submission", "description": "No problem or solution presented." },
+          { "level": "Inadequate", "description": "Trivial problem or ineffective use of deep learning." },
+          { "level": "Adequate", "description": "Somewhat challenging problem, but solution lacks depth." },
+          { "level": "Good", "description": "Moderately challenging problem with a usable deep learning solution." },
+          { "level": "Very Good", "description": "Challenging problem with a well-executed deep learning solution." },
+          { "level": "Excellent", "description": "Highly complex problem with innovative deep learning application." }
+        ]
+      },
+      {
+        "criteria": "Introduction",
+        "weight": "10%",
+        "levels": [
+          { "level": "No Submission", "description": "No introduction or irrelevant." },
+          { "level": "Inadequate", "description": "Vague or lacks context." },
+          { "level": "Adequate", "description": "Basic context but lacks clarity or organization." },
+          { "level": "Good", "description": "Clear definition of problem and context." },
+          { "level": "Very Good", "description": "Engaging and clear outlining of significance and context." },
+          { "level": "Excellent", "description": "Exceptional context, compelling and well-structured." }
+        ]
+      },
+      {
+        "criteria": "Background",
+        "weight": "5%",
+        "levels": [
+          { "level": "No Submission", "description": "No or incorrect background." },
+          { "level": "Inadequate", "description": "Limited or irrelevant background." },
+          { "level": "Adequate", "description": "Provides context, but lacks depth or accuracy." },
+          { "level": "Good", "description": "Good overview of the relevant field." },
+          { "level": "Very Good", "description": "Comprehensive and accurate background." },
+          { "level": "Excellent", "description": "Insightful and exceptional background." }
+        ]
+      },
+      {
+        "criteria": "Literature Review",
+        "weight": "5%",
+        "levels": [
+          { "level": "No Submission", "description": "No review or irrelevant." },
+          { "level": "Inadequate", "description": "Limited or irrelevant literature." },
+          { "level": "Adequate", "description": "Basic analysis but lacks depth." },
+          { "level": "Good", "description": "Key references with basic analysis." },
+          { "level": "Very Good", "description": "Comprehensive, well-cited, and analytical." },
+          { "level": "Excellent", "description": "Exceptional, demonstrating in-depth critical evaluation." }
+        ]
+      },
+      {
+        "criteria": "Data Acquisition and Exploration",
+        "weight": "10%",
+        "levels": [
+          { "level": "No Submission", "description": "No data or irrelevant." },
+          { "level": "Inadequate", "description": "Unclear or inappropriate data." },
+          { "level": "Adequate", "description": "Appropriate data but inadequate pre-processing." },
+          { "level": "Good", "description": "Appropriate data and reasonable pre-processing." },
+          { "level": "Very Good", "description": "Appropriate data with thorough pre-processing and valuable insights." },
+          { "level": "Excellent", "description": "Exceptional data source, meticulous pre-processing, and insightful exploration." }
+        ]
+      },
+      {
+        "criteria": "Model Development & Training",
+        "weight": "15%",
+        "levels": [
+          { "level": "No Submission", "description": "No model or not deep learning based." },
+          { "level": "Inadequate", "description": "Inappropriate model selection." },
+          { "level": "Adequate", "description": "Model selection is relevant, but hyperparameter tuning is lacking." },
+          { "level": "Good", "description": "Appropriate model, reasonable hyperparameter tuning." },
+          { "level": "Very Good", "description": "Well-justified model, thorough tuning, explained process." },
+          { "level": "Excellent", "description": "Exceptional model with advanced techniques and deep insights." }
+        ]
+      },
+      {
+        "criteria": "Fine-tuning & Evaluation",
+        "weight": "10%",
+        "levels": [
+          { "level": "No Submission", "description": "No evaluation or inadequate." },
+          { "level": "Inadequate", "description": "Limited or inappropriate evaluation metrics." },
+          { "level": "Adequate", "description": "Basic evaluation, lacking analysis." },
+          { "level": "Good", "description": "Relevant metrics with some analysis." },
+          { "level": "Very Good", "description": "Comprehensive evaluation with insightful analysis." },
+          { "level": "Excellent", "description": "Advanced metrics, deep analysis, and mastery of evaluation techniques." }
+        ]
+      },
+      {
+        "criteria": "Results",
+        "weight": "10%",
+        "levels": [
+          { "level": "No Submission", "description": "No results or unclear." },
+          { "level": "Inadequate", "description": "Limited results without context." },
+          { "level": "Adequate", "description": "Results are presented but lack significance." },
+          { "level": "Good", "description": "Clear, understandable results with discussion." },
+          { "level": "Very Good", "description": "Well-presented, well-discussed, and implications explored." },
+          { "level": "Excellent", "description": "Exceptional results with insightful interpretations." }
+        ]
+      },
+      {
+        "criteria": "Quality of Code & Explanations",
+        "weight": "10%",
+        "levels": [
+          { "level": "No Submission", "description": "No code or unusable." },
+          { "level": "Inadequate", "description": "Unusable code, no explanations." },
+          { "level": "Adequate", "description": "Functional code, basic explanations." },
+          { "level": "Good", "description": "Well-written, documented, clear explanations." },
+          { "level": "Very Good", "description": "Exceptional, well-organized, documented code with insightful explanations." },
+          { "level": "Excellent", "description": "Masterful code with best practices and exceptionally clear explanations." }
+        ]
+      },
+      {
+        "criteria": "Conclusion & Recommendations",
+        "weight": "5%",
+        "levels": [
+          { "level": "No Submission", "description": "No conclusion or vague." },
+          { "level": "Inadequate", "description": "Inadequate summary and limited recommendations." },
+          { "level": "Adequate", "description": "Basic summary and recommendations." },
+          { "level": "Good", "description": "Clear summary with good recommendations." },
+          { "level": "Very Good", "description": "Thoughtful summary with well-justified recommendations." },
+          { "level": "Excellent", "description": "Exceptional summary with insightful recommendations considering ethical and societal implications." }
+        ]
+      },
+      {
+        "criteria": "Quality of Report Presentation",
+        "weight": "10%",
+        "levels": [
+          { "level": "No Submission", "description": "No report or poor presentation." },
+          { "level": "Inadequate", "description": "Poorly organized, ineffective communication." },
+          { "level": "Adequate", "description": "Somewhat organized, but inconsistent communication." },
+          { "level": "Good", "description": "Well-organized, clear communication." },
+          { "level": "Very Good", "description": "Exceptional, engaging, clear communication." },
+          { "level": "Excellent", "description": "Outstanding, captivating, and clear communication, demonstrating mastery." }
+        ]
+      }
+    ]
+  }
+  
